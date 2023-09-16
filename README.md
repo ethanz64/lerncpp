@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-# lerncpp
-=======
 lerncpp
->>>>>>> e82d0ff (test commit)
+本项目仅为个人学习所用
